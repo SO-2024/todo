@@ -71,4 +71,4 @@ cd todo
 ERD (Entity Relationship Diagram):
 ![erd](https://github.com/user-attachments/assets/bd0bfcf5-f47b-479a-9a0d-6b3d7de0b3aa)
 
-
+Video Demo link: [Watch on YouTube](https://youtu.be/CoRpsIhjsr8)
